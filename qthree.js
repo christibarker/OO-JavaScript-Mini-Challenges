@@ -29,8 +29,6 @@ class Library {
 	}
 
 	countsBook() {
-		for (var i = 0; i < this.book.length; i++) {
-		}
 		return this.book.length;
 	}
 }
